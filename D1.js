@@ -50,22 +50,22 @@ console.log(x);
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 
-/*let myname = "Philip";
+let myname = "Philip";
 myName = "Aduteye";
 console.log(myName);
 
 const myConstant = "Philip";
 myConstant = "Aduteye";
-console.log(myConstant);*/
+console.log(myConstant);
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
-
+/*
 let x = 12;
-console.log(x);
-let result = 4 - x;
-console.log(result);
+let result  = 4 - x;
+console-log(result);
+*/
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
