@@ -11,13 +11,12 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
-/* numeri :i suoi valori vanno scritti senza apici come variabile ed è indicato senza distinzione tra intero e decimale.
-stringa : i suoi valori devono essere scritti fra apici,singoli o doppi.indica sia il singolo carattere che la sequenza finita di caratteri.Es:"John Doe".
-booleano: i suoi valori vanno scritti senza apici.Ammette due valori :true e false
+/* number :i suoi valori vanno scritti senza apici come variabile ed è indicato senza distinzione tra intero e decimale.
+string : i suoi valori devono essere scritti fra apici,singoli o doppi.indica sia il singolo carattere che la sequenza finita di caratteri.Es:"John Doe".
+boolean: i suoi valori vanno scritti senza apici.Ammette due valori :true e false
 null: segnala l'assenza di un oggetto.Immaginiamo di avere un contenitore ma decidiamo di tenerlo vuoto.Indica una mancanza di identificazione
 undefined:è una proprietà che indica una variabile non ha un valore assegnato o definita.
 BigInt:può essere utilizzato per memorizzare valori interi troppo grandi per essere rappresentati da un normale numero JavaScript.
-simboli/symbol:
 Object (tipo non primitivo):può memorizzare raccolte di dati.
 */
 
